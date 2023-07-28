@@ -6,7 +6,7 @@ name: Student Registry App CI
 on:
   push:
     branches: 
-      - 'master'
+      - 'main'
       - 'releases/**' 
 
 jobs:
